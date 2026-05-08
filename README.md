@@ -11,7 +11,7 @@
 
 ### Step 1: Create condsa environment
 ```
-conda create -p venv python=3.8 -y
+conda create -p venv python=3.10 -y
 ```
 ```
 conda activate venv/
